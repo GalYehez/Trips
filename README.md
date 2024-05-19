@@ -1,2 +1,2 @@
-# Trips
-Developed 'Trips' – information system, using java as programming language and SQL as database implemented in eclipse. Back and Front work that emphasis on GUI work (JavaFX), as well as on the database. Data, logic of the project. Use XML, JSON files and forms.
+# WanderGuide
+An integrated excursion management system, featuring dynamic GUI and robust database functionalities. Seamlessly handles data, logic, and user interface components with support for XML, JSON, and form files.
